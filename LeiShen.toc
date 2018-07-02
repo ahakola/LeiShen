@@ -1,0 +1,9 @@
+## Interface: 50400
+## Author: Kelzu (Stormreaver EU)/Sanex (Arathor EU)
+## Title: |cFFFF0000Lei Shen|r
+## Version: v1.1
+## Notes: Countdown for Lei Shen's Static Shock and Overcharged debuffs and Static Shock solo soak announcer
+## Dependencies:
+## OptionalDeps:
+
+core.lua
